@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj": {}
+    "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj": {}
   },
   "projects": {
-    "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj": {
+    "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj",
+        "projectUniqueName": "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj",
         "projectName": "AssetInfo",
-        "projectPath": "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj",
+        "projectPath": "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj",
         "packagesPath": "C:\\Users\\pavan\\.nuget\\packages\\",
-        "outputPath": "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo\\obj\\",
+        "outputPath": "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

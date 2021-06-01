@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "z7uc6v+ACc7n7sWfpdzfmjtKEoqwhkMpIJprOmPxHNyi43BPkW3tgZg+i71FiDFHlitgYHMzGHpyzMNmsK9uqA==",
+  "dgSpecHash": "xmbvauXSpYJ4m4J7MUUQahoEaiJaWdhNpn9YJpKeYUQOIaA5ErsZXTzCWGmWPOyWGdYjIH8m/0P/dp9unv3Jrg==",
   "success": true,
-  "projectFilePath": "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo.Android\\AssetInfo.Android.csproj",
+  "projectFilePath": "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo.Android\\AssetInfo.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pavan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\pavan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\pavan\\.nuget\\packages\\plugin.permissions\\6.0.1\\plugin.permissions.6.0.1.nupkg.sha512",
     "C:\\Users\\pavan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\pavan\\.nuget\\packages\\xam.plugins.downloadmanager\\1.4.0\\xam.plugins.downloadmanager.1.4.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

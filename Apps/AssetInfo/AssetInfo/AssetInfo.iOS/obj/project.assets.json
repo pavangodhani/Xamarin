@@ -1211,11 +1211,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo.iOS\\AssetInfo.iOS.csproj",
+      "projectUniqueName": "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo.iOS\\AssetInfo.iOS.csproj",
       "projectName": "AssetInfo.iOS",
-      "projectPath": "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo.iOS\\AssetInfo.iOS.csproj",
+      "projectPath": "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo.iOS\\AssetInfo.iOS.csproj",
       "packagesPath": "C:\\Users\\pavan\\.nuget\\packages\\",
-      "outputPath": "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo.iOS\\obj\\",
+      "outputPath": "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1238,8 +1238,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj": {
-              "projectPath": "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj"
+            "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj": {
+              "projectPath": "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj"
             }
           }
         }

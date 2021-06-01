@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D7jrC+NqRzZW6+tWAoG4ZysNPBkqGs0dS0ylQOT5DEf86iNJJirs3hZVHI+lFi/l0Ls8mqA6lJ9DI1wP3O/Srw==",
+  "dgSpecHash": "UjTQhmgQt1224mm3DmFdjF40JXeAcUh+H5QCh/9n63/TAXnLB8hommZRlL4dF66WJnZogO9FqF+gAB0JqPdEyA==",
   "success": true,
-  "projectFilePath": "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo.iOS\\AssetInfo.iOS.csproj",
+  "projectFilePath": "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo.iOS\\AssetInfo.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pavan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\pavan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",

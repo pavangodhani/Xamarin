@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IOAU3eq/n6mP0DV6hDL3eCxmxJ/xv0BM6DmHp3oDijxSqwNmkNXRNJGJ9w9JbWZRPPSCWHKFveDOvmepjw/IFw==",
+  "dgSpecHash": "w6rOnJtdH6F76HIDD2Jh4IlosP/3lQgJLw9O55ftVGj+dJn1DSyFR9VD105yedOddTOsKxX8X8JvN0r+ObA2DA==",
   "success": true,
-  "projectFilePath": "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj",
+  "projectFilePath": "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pavan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\pavan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

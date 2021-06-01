@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo.Android\\AssetInfo.Android.csproj": {}
+    "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo.Android\\AssetInfo.Android.csproj": {}
   },
   "projects": {
-    "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo.Android\\AssetInfo.Android.csproj": {
+    "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo.Android\\AssetInfo.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo.Android\\AssetInfo.Android.csproj",
+        "projectUniqueName": "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo.Android\\AssetInfo.Android.csproj",
         "projectName": "AssetInfo.Android",
-        "projectPath": "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo.Android\\AssetInfo.Android.csproj",
+        "projectPath": "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo.Android\\AssetInfo.Android.csproj",
         "packagesPath": "C:\\Users\\pavan\\.nuget\\packages\\",
-        "outputPath": "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo.Android\\obj\\",
+        "outputPath": "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -34,8 +34,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj": {
-                "projectPath": "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj"
+              "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj": {
+                "projectPath": "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj"
               }
             }
           }
@@ -44,6 +44,10 @@
       "frameworks": {
         "monoandroid11.0": {
           "dependencies": {
+            "Plugin.Permissions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
             "Xam.Plugins.DownloadManager": {
               "target": "Package",
               "version": "[1.4.0, )"
@@ -60,14 +64,14 @@
         }
       }
     },
-    "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj": {
+    "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj",
+        "projectUniqueName": "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj",
         "projectName": "AssetInfo",
-        "projectPath": "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj",
+        "projectPath": "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo\\AssetInfo.csproj",
         "packagesPath": "C:\\Users\\pavan\\.nuget\\packages\\",
-        "outputPath": "E:\\KLing\\Xamarin\\Projects\\AssetInfo\\AssetInfo\\AssetInfo\\obj\\",
+        "outputPath": "E:\\KLing\\github\\Xamarin\\Apps\\AssetInfo\\AssetInfo\\AssetInfo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

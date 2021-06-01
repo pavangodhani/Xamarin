@@ -33,18 +33,11 @@
                     Clicked="GetMachinesForAsset_Button_Clicked"
                     FontAttributes="Bold"
                     Margin="0,0,0,5"/>
-            
+
             <Button Text="Add New Asset" 
                     BackgroundColor="#4283DE"
                     TextColor="#323b42"
                     Clicked="AddAsset_Button_Clicked"
-                    FontAttributes="Bold"
-                    Margin="0,0,0,5"/>
-            
-            <Button Text="Download" 
-                    BackgroundColor="#4283DE"
-                    TextColor="#323b42"
-                    Clicked="Download_Button_Clicked"
                     FontAttributes="Bold"
                     Margin="0,0,0,5"/>
         </StackLayout>

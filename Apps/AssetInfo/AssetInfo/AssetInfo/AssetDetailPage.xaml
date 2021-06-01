@@ -4,7 +4,7 @@
              x:Class="AssetInfo.AssetDetailPage"
              NavigationPage.HasNavigationBar="False">
     <ContentPage.Content>
-        <StackLayout BackgroundColor="#323b42" Padding="20,30,20,0">
+        <StackLayout BackgroundColor="#323b42" Padding="20,30,20,0" x:Name="AssetInfo">
             <ListView x:Name="AssetInfoView">
                 <ListView.ItemTemplate>
                     <DataTemplate>
@@ -45,6 +45,13 @@
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>
+            
+            <Button Text="Download" 
+                    BackgroundColor="#4283DE"
+                    TextColor="#323b42"
+                    Clicked="Download_Button_Clicked"
+                    FontAttributes="Bold"
+                    Margin="40,30,40,30"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

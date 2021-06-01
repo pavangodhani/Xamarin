@@ -74,10 +74,5 @@ namespace AssetInfo
         {
             await Navigation.PushAsync(new AssetOverViewPage());
         }
-
-        private async void Download_Button_Clicked(object sender, EventArgs e)
-        {
-            await DisplayAlert("", "Zip Downloaded", "OK");
-        }
     }
 }

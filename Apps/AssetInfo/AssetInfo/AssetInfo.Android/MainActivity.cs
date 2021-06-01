@@ -4,6 +4,11 @@ using Android.App;
 using Android.Content.PM;
 using Android.Runtime;
 using Android.OS;
+using Android;
+using AndroidX.Core.App;
+using Xamarin.Forms;
+using AndroidX.Core.Content;
+using Plugin.Permissions;
 
 namespace AssetInfo.Droid
 {
@@ -18,11 +23,20 @@ namespace AssetInfo.Droid
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());
         }
+
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
         {
-            Xamarin.Essentials.Platform.OnRequestPermissionsResult(requestCode, permissions, grantResults);
+            Xamarin.Essentials.Platform.OnRequestPermissionsResult(
+                requestCode, permissions, grantResults);
 
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
         }
+
+        //public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
+        //{
+        //    PermissionsImplementation.Current.OnRequestPermissionsResult
+        //          (requestCode, permissions, grantResults);
+        //    base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
+        //}
     }
 }
