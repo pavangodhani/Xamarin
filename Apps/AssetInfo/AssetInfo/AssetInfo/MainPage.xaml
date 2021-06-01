@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AssetInfo.MainPage"
+             BackgroundColor="#323b42"
+             NavigationPage.HasNavigationBar="False">
+    
+    <StackLayout VerticalOptions="CenterAndExpand">
+        <!--<Image Source="Logo1.png"
+               WidthRequest="180"/>
+  
+        <Button Text="Let's Start"
+                BackgroundColor="#4282DE"
+                TextColor="#323b42"
+                Margin="80,80,80,0"
+                Clicked="Button_Clicked"
+                FontAttributes="Bold"/>-->
+
+        <ImageButton Source="Logo1.png"
+                     WidthRequest="150"
+                     BackgroundColor="#323b42"
+                     Clicked="Button_Clicked"
+                     HorizontalOptions="Center"/>
+    </StackLayout>
+
+</ContentPage>

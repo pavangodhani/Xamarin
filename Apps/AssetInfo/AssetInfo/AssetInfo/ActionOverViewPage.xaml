@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AssetInfo.ActionOverViewPage"
+             NavigationPage.HasNavigationBar="False"
+             BackgroundColor="#323b42">
+    <ContentPage.Content>
+        <StackLayout Padding="30,30,30,30" VerticalOptions="CenterAndExpand">
+            <Button Text="Get All Assets Info" 
+                    BackgroundColor="#4283DE"
+                    TextColor="#323b42"
+                    Clicked="GetAssets_Button_Clicked"
+                    FontAttributes="Bold"
+                    Margin="0,0,0,5"/>
+
+            <Button Text="Get Assets With It's Latest Series" 
+                    BackgroundColor="#4283DE"
+                    TextColor="#323b42"
+                    Clicked="GetAssetsWithLatestSeriesNo_Button_Clicked"
+                    FontAttributes="Bold"
+                    Margin="0,0,0,5"/>
+            
+            <Button Text="Get Assets For Machine Type" 
+                    BackgroundColor="#4283DE"
+                    TextColor="#323b42"
+                    Clicked="GetAssetsForMachineType_Button_Clicked"
+                    FontAttributes="Bold"
+                    Margin="0,0,0,5"/>
+
+            <Button Text="Get Machines For Asset" 
+                    BackgroundColor="#4283DE"
+                    TextColor="#323b42"
+                    Clicked="GetMachinesForAsset_Button_Clicked"
+                    FontAttributes="Bold"
+                    Margin="0,0,0,5"/>
+            
+            <Button Text="Add New Asset" 
+                    BackgroundColor="#4283DE"
+                    TextColor="#323b42"
+                    Clicked="AddAsset_Button_Clicked"
+                    FontAttributes="Bold"
+                    Margin="0,0,0,5"/>
+            
+            <Button Text="Download" 
+                    BackgroundColor="#4283DE"
+                    TextColor="#323b42"
+                    Clicked="Download_Button_Clicked"
+                    FontAttributes="Bold"
+                    Margin="0,0,0,5"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

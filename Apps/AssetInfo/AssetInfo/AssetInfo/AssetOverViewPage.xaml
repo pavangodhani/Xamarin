@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AssetInfo.AssetOverViewPage"
+             Background="#323b42"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <StackLayout Padding="40,50,40,0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Entry Placeholder="Machine Type"
+                       Grid.Row="0"
+                       Grid.Column="0"
+                       PlaceholderColor="#c0c0c0"
+                       TextColor="White"
+                       x:Name="machineType"/>
+                <Entry Placeholder="Asset Name"
+                       Grid.Row="1"
+                       Grid.Column="0"
+                       PlaceholderColor="#c0c0c0"
+                       TextColor="White"
+                       x:Name="assetName"/>
+                <Entry Placeholder="Asset Series Number"
+                       Grid.Row="2"
+                       Grid.Column="0"
+                       PlaceholderColor="#c0c0c0"
+                       TextColor="White"
+                       x:Name="assetSeriesNo"/>
+            </Grid>
+            <Button Text="Save"
+                    BackgroundColor="#4283DE"
+                    Margin="50,30,50,0"
+                    Clicked="Save_Button_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
